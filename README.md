@@ -1,6 +1,3 @@
-                                                            NAME: Nemaleshwar H
-                                                            REGNO:212223230142                                                      
-                                                                                                    
 # Fitting Poisson  distribution
 # Aim : 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -32,8 +29,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 # Program :
 ```
 '''
-name: priyangha
-register number: 212223040157
+name: Nemaleshwar H
+register number: 212223230142
 '''
 import numpy as np
 import math
@@ -72,7 +69,9 @@ else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 ```
 # Output : 
-![image](https://github.com/Priyanghaofficial/Poisson_distribution/assets/147121154/6b65ecee-a73a-4282-96ee-235c39741618)
+
+![318261244-6b65ecee-a73a-4282-96ee-235c39741618](https://github.com/user-attachments/assets/0be9ab60-a3f8-424d-a104-9dc237621fc4)
+
 # Results
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
  
